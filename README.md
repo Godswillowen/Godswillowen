@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL])
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)]([Your Portfolio URL])
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Your GitHub Username])
+[![godswillowen23@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![https://github.com/Godswillowen](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Your GitHub Username])
 
 ---
 
