@@ -1,4 +1,4 @@
-# Godswill Owen
+# Hello 👋 am Godswill Owen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://Godswill-Owen.kesug.com)
