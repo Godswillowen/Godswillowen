@@ -1,10 +1,9 @@
-# [Hi 👋 am Godswill Owen]
+# Godswill Owen
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)]([Your Portfolio URL])
-[![godswillowen23@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![https://github.com/Godswillowen](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Your GitHub Username])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://Godswill-Owen.kesug.com)
+[![Email](https://img.shields.io/badge/Email-godswillowen23@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godswillowen23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godswillowen)
 
 ---
 
@@ -57,14 +56,16 @@ I am passionate about open source and actively contribute to the following proje
 
 I'm always open to connecting with fellow developers, discussing interesting projects, and exploring new opportunities. Feel free to reach out!
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
-* [![@godswill_Owens](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL])
-* [![godswillowen23@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-* [Optional: Link to your portfolio or other relevant profiles]
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
+* [![Email](https://img.shields.io/badge/Email-godswillowen23@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godswillowen23@gmail.com)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://Godswill-Owen.kesug.com)
+* [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godswillowen)
+* [Optional: Link to other relevant profiles]
 
 ---
 
 Thank you for visiting my profile!
+
 
 <!---
 Godswillowen/Godswillowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
