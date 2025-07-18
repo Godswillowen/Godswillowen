@@ -58,7 +58,7 @@ I'm always open to connecting with fellow developers, discussing interesting pro
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
 * [![Email](https://img.shields.io/badge/Email-godswillowen23@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godswillowen23@gmail.com)
-* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://Godswill-Owen.kesug.com)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://godswill-owens.vercel.app)
 * [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godswillowen)
 * [Optional: Link to other relevant profiles]
 
