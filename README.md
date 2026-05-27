@@ -1,9 +1,8 @@
-# Hello 👋 am Godswill Owen
+# Hello 😊 am Godswill Owen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://godswill-owens.vercel.app)
 [![Email](https://img.shields.io/badge/Email-godswillowen23@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godswillowen23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godswillowen)
 
 ---
 
@@ -29,38 +28,12 @@ A highly motivated and detail-oriented Frontend Developer with a passion for cre
 
 Here are a few highlights of my recent or significant projects:
 
-### [Project Title 1]
-[![Project 1 Screenshot]([Optional: Link to a small, relevant image of your project])]([Link to the project repository or live demo])
-> [Brief and compelling description of the project. Highlight the key technologies used and the problem it solves or the value it provides.]
-
-### [Project Title 2]
-[![Project 2 Screenshot]([Optional: Link to a small, relevant image of your project])]([Link to the project repository or live demo])
-> [Brief and compelling description of the project. Highlight the key technologies used and the problem it solves or the value it provides.]
-
-### [Project Title 3]
-[![Project 3 Screenshot]([Optional: Link to a small, relevant image of your project])]([Link to the project repository or live demo])
-> [Brief and compelling description of the project. Highlight the key technologies used and the problem it solves or the value it provides.]
-
-[You can add more featured projects as needed]
-
-## Contributions
-
-[If you actively contribute to open source projects, add a section like this:]
-
-I am passionate about open source and actively contribute to the following projects:
-
-* [Project Name 1]([Link to the project]) - [Brief description of your contribution]
-* [Project Name 2]([Link to the project]) - [Brief description of your contribution]
 
 ## Get In Touch
 
 I'm always open to connecting with fellow developers, discussing interesting projects, and exploring new opportunities. Feel free to reach out!
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godswill-owen-ab96b3363)
-* [![Email](https://img.shields.io/badge/Email-godswillowen23@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godswillowen23@gmail.com)
-* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=#FF7139)](https://godswill-owens.vercel.app)
-* [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godswillowen)
-* [Optional: Link to other relevant profiles]
+* 
 
 ---
 
@@ -68,6 +41,6 @@ Thank you for visiting my profile!
 
 
 <!---
-Godswillowen/Godswillowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Godswillowen/Godswillowen is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
