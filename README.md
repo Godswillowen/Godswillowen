@@ -26,14 +26,14 @@ A highly motivated and detail-oriented Frontend Developer with a passion for cre
 
 ## Featured Projects
 
-Here are a few highlights of my recent or significant projects:
+check out repos for projects 🙂
 
 
 ## Get In Touch
 
 I'm always open to connecting with fellow developers, discussing interesting projects, and exploring new opportunities. Feel free to reach out!
 
-* 
+* https://godswill-owens.vercel.app
 
 ---
 
